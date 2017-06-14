@@ -1,0 +1,7 @@
+
+!CONFIGURATION: 'com.ti.ccstudio.buildDefinitions.C2000.Debug.168394314' [Sat Feb 18 12:26:35 CST 2017]
+
+	!TOOL: 'com.ti.ccstudio.buildDefinitions.C2000_16.9.hex.1981588780'
+
+		!WARNING: Unresolved option: com.ti.ccstudio.buildDefinitions.C2000_16.9.hex.OLENGTH
+
